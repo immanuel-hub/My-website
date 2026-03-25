@@ -5,14 +5,7 @@ body{
     color: rgb(21, 21, 20);
 
 }
-.logo{
-    color: orangered;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 25px;
-    font-weight: bolder;
-    letter-spacing: 5px;
-    text-align: left;
-}
+
 
 .navbar{
     text-align:center;
