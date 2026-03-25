@@ -40,7 +40,7 @@ body{
 
 }
 .navbar ul li:hover{
-    background-color: rgba(74, 78, 84, 0.318);
+    background-color: rgba(74, 78, 84, 0.428);
     border-radius: 50px;
 }
 p{
