@@ -1,0 +1,54 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+body{
+    background-image:url(joecalih-1Uwcoo-ttjY-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    color: orangered;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bolder;
+    letter-spacing: 5px;
+    text-align: left;
+}
+.navbar{
+    text-align:center;
+    
+}
+.navbar ul{
+    display: inline-flex;
+    list-style: none;
+    
+}
+.navbar ul li{
+    width: 270px;
+    margin: 45px;
+    padding: 2px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: rgb(27, 43, 43);
+    font-size: 25px;
+    font-weight: bolder;
+
+}
+.navbar ul li:hover{
+    background-color: rgba(74, 78, 84, 0.318);
+    border-radius: 50px;
+}
+p{
+    font-size: 40;
+    background-color:rgba(117, 145, 184, 0.409) ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+
+

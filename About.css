@@ -1,0 +1,65 @@
+body{
+    background-image: url(aboodi-vesakaran-4oiCd8XckK8-unsplash.jpg);
+    background-position: center;
+    background-size: contain;
+    color: rgb(21, 21, 20);
+
+.logo{
+    color: orangered;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bolder;
+    letter-spacing: 5px;
+    text-align: left;
+}
+
+.navbar{
+    text-align:center;
+    
+}
+.navbar ul{
+    display: inline-flex;
+    list-style: none;
+    
+}
+.navbar ul li{
+    width: 270px;
+    margin: 45px;
+    padding: 2px;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: rgb(27, 43, 43);
+    font-size: 25px;
+    font-weight: bolder;
+
+}
+.navbar ul li:hover{
+    background-color: rgba(74, 78, 84, 0.318);
+    border-radius: 50px;
+    
+}
+h1{
+    text-align: center;
+    font-weight: bolder;
+    color: rgb(9, 9, 9);
+    font-size: 50;
+    background-color: rgba(140, 148, 148, 0.497);
+}
+p{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(224, 224, 182);
+    background-color: rgba(63, 73, 73, 0.232);
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    background-color: rgba(121, 151, 151, 0.835);
+    font-size: 60px;
+}
+ul li{
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:100px;
+}
